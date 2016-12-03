@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    将数组数据放到资源数组文件中。
+-->
+<resources>
+    <array name="arrImages">
+        <item>@drawable/star_page_image1</item>
+        <item>@drawable/star_page_image2</item>
+        <item>@drawable/star_page_image3</item>
+        <item>@drawable/star_page_image4</item>
+    </array>
+    <string-array name="arrHomePageTabs">
+        <item>首页</item>
+        <item>母婴</item>
+        <item>美妆</item>
+        <item>家居</item>
+        <item>保健</item>
+    </string-array>
+</resources>
